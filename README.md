@@ -1,1 +1,1 @@
-# MyProject
+# Pongs - Excersice Project
